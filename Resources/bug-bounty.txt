@@ -1,53 +1,101 @@
 ⚙️ Complete Bug Bounty tool List ⚙️
 
-1. dnscan https://github.com/rbsec/dnscan
-2. Knockpy https://github.com/guelfoweb/knock
-3. Sublist3r https://github.com/aboul3la/Sublist3r
-4. massdns https://github.com/blechschmidt/massdns
-5. Nmap https://nmap.org
-6. Masscan https://github.com/robertdavidgraham/masscan
-7. EyeWitness https://github.com/ChrisTruncer/EyeWitness
-8. DirBuster https://sourceforge.net/projects/dirbuster/
-9. dirsearch https://github.com/maurosoria/dirsearch
-10. Gitrob https://github.com/michenriksen/gitrob
-11. git-secrets https://github.com/awslabs/git-secrets
-12. sandcastle https://github.com/yasinS/sandcastle
-13. bucket_finder https://digi.ninja/projects/bucket_finder.php
-14. GoogD0rker https://github.com/ZephrFish/GoogD0rker/
-15. Wayback Machine https://web.archive.org
-16. waybackurls https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050 
-17. Sn1per https://github.com/1N3/Sn1per/
-18. XRay https://github.com/evilsocket/xray
-19. wfuzz https://github.com/xmendez/wfuzz/
-20. patator https://github.com/lanjelot/patator
-21. datasploit https://github.com/DataSploit/datasploit
-22. hydra https://github.com/vanhauser-thc/thc-hydra
-23. changeme https://github.com/ztgrace/changeme
-24. MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF/ 
-25. Apktool https://github.com/iBotPeaches/Apktool
-26. dex2jar https://sourceforge.net/projects/dex2jar/
-27. sqlmap http://sqlmap.org/
-28. oxml_xxe https://github.com/BuffaloWill/oxml_xxe/
-29. XXE Injector https://github.com/enjoiz/XXEinjector
-30. The JSON Web Token Toolkit https://github.com/ticarpi/jwt_tool
-31. ground-control https://github.com/jobertabma/ground-control
-32. ssrfDetector https://github.com/JacobReynolds/ssrfDetecto
-33. LFISuit https://github.com/D35m0nd142/LFISuite
-34. GitTools https://github.com/internetwache/GitTools
-35. dvcs-ripper https://github.com/kost/dvcs-ripper
-36. tko-subs https://github.com/anshumanbh/tko-subs
-37. HostileSubBruteforcer https://github.com/nahamsec/HostileSubBruteforcer
-38. Race the Web https://github.com/insp3ctre/race-the-web
-39. ysoserial https://github.com/GoSecure/ysoserial
-40. PHPGGC https://github.com/ambionics/phpggc
-41. CORStest https://github.com/RUB-NDS/CORStest
-42. Retire-js https://github.com/RetireJS/retire.js
-43. getsploit https://github.com/vulnersCom/getsploit
-44. Findsploit https://github.com/1N3/Findsploit
-45. bfac https://github.com/mazen160/bfac
-46. WPScan https://wpscan.org/
-47. CMSMap https://github.com/Dionach/CMSmap
-48. Amass https://github.com/OWASP/Amass
+1. dnscan 
+https://github.com/rbsec/dnscan
+2. Knockpy 
+https://github.com/guelfoweb/knock
+3. Sublist3r 
+https://github.com/aboul3la/Sublist3r
+4. massdns 
+https://github.com/blechschmidt/massdns
+5. Nmap 
+https://nmap.org
+6. Masscan 
+https://github.com/robertdavidgraham/masscan
+7. EyeWitness 
+https://github.com/ChrisTruncer/EyeWitness
+8. DirBuster 
+https://sourceforge.net/projects/dirbuster/
+9. dirsearch 
+https://github.com/maurosoria/dirsearch
+10. Gitrob 
+https://github.com/michenriksen/gitrob
+11. git-secrets 
+https://github.com/awslabs/git-secrets
+12. sandcastle 
+https://github.com/yasinS/sandcastle
+13. bucket_finder 
+https://digi.ninja/projects/bucket_finder.php
+14. GoogD0rker 
+https://github.com/ZephrFish/GoogD0rker/
+15. Wayback Machine 
+https://web.archive.org
+16. waybackurls 
+https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050 
+17. Sn1per 
+https://github.com/1N3/Sn1per/
+18. XRay 
+https://github.com/evilsocket/xray
+19. wfuzz 
+https://github.com/xmendez/wfuzz/
+20. patator 
+https://github.com/lanjelot/patator
+21. datasploit 
+https://github.com/DataSploit/datasploit
+22. hydra 
+https://github.com/vanhauser-thc/thc-hydra
+23. changeme 
+https://github.com/ztgrace/changeme
+24. MobSF 
+https://github.com/MobSF/Mobile-Security-Framework-MobSF/ 
+25. Apktool 
+https://github.com/iBotPeaches/Apktool
+26. dex2jar 
+https://sourceforge.net/projects/dex2jar/
+27. sqlmap 
+http://sqlmap.org/
+28. oxml_xxe 
+https://github.com/BuffaloWill/oxml_xxe/
+29. XXE Injector 
+https://github.com/enjoiz/XXEinjector
+30. The JSON Web Token Toolkit 
+https://github.com/ticarpi/jwt_tool
+31. ground-control 
+https://github.com/jobertabma/ground-control
+32. ssrfDetector 
+https://github.com/JacobReynolds/ssrfDetecto
+33. LFISuit 
+https://github.com/D35m0nd142/LFISuite
+34. GitTools 
+https://github.com/internetwache/GitTools
+35. dvcs-ripper 
+https://github.com/kost/dvcs-ripper
+36. tko-subs 
+https://github.com/anshumanbh/tko-subs
+37. HostileSubBruteforcer 
+https://github.com/nahamsec/HostileSubBruteforcer
+38. Race the Web 
+https://github.com/insp3ctre/race-the-web
+39. ysoserial 
+https://github.com/GoSecure/ysoserial
+40. PHPGGC 
+https://github.com/ambionics/phpggc
+41. CORStest 
+https://github.com/RUB-NDS/CORStest
+42. Retire-js 
+https://github.com/RetireJS/retire.js
+43. getsploit 
+https://github.com/vulnersCom/getsploit
+44. Findsploit 
+https://github.com/1N3/Findsploit
+45. bfac 
+https://github.com/mazen160/bfac
+46. WPScan 
+https://wpscan.org/
+47. CMSMap 
+https://github.com/Dionach/CMSmap
+48. Amass 
+https://github.com/OWASP/Amass
 
 Extra Tools
 http://projectdiscovery.io
